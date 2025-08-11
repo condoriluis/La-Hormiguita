@@ -139,7 +139,7 @@ export default function Hero() {
                 className="relative z-10"
               >
                 <Image
-                  src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=600&q=80"
+                  src="/assets/images/banner.png"
                   alt="Accesorios destacados"
                   width={600}
                   height={600}

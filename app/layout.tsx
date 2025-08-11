@@ -6,8 +6,8 @@ import Footer from "../components/Footer";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: 'La Hormiguita - Accesorios Profesionales',
-  description: 'Tienda online de accesorios tecnológicos de alta calidad. Audífonos, micrófonos, soportes y más. Envío gratis en compras mayores a Bs 350.',
+  title: 'La Hormiguita - Venta de Accesorios Tecnológicos',
+  description: 'Tienda online de accesorios tecnológicos de alta calidad. Audífonos, micrófonos, soportes y más.',
   keywords: 'accesorios, tecnología, audífonos, micrófonos, soportes, cables, periféricos',
   authors: [{ name: 'La Hormiguita' }],
   creator: 'La Hormiguita',
@@ -17,20 +17,23 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
+  icons: {
+    icon: "/assets/images/favicon.png",
+  },
   alternates: {
     canonical: '/',
   },
   openGraph: {
-    title: 'La Hormiguita - Accesorios Profesionales',
-    description: 'Tienda online de accesorios tecnológicos de alta calidad. Envío gratis en compras mayores a Bs 350.',
-    url: 'https://lahormiguita.com',
+    title: 'La Hormiguita - Venta de Accesorios Tecnológicos',
+    description: 'Tienda online de accesorios tecnológicos de alta calidad.',
+    url: 'https://la-hormiguita.vercel.app',
     siteName: 'La Hormiguita',
     locale: 'es_ES',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'La Hormiguita - Accesorios Profesionales',
+    title: 'La Hormiguita - Venta de Accesorios Tecnológicos',
     description: 'Tienda online de accesorios tecnológicos de alta calidad.',
   },
   robots: {
