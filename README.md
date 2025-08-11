@@ -2,7 +2,7 @@
 
 Tienda online profesional de accesorios en general.
 
-Tecnologías: Next.js 14+, React 18+, TypeScript, Tailwind CSS, Framer Motion, next/image.
+Tecnologías: Next.js 15+, React 18+, TypeScript, Tailwind CSS, Framer Motion, next/image.
 
 Estructura:
 - `/app` (rutas y páginas principales)
